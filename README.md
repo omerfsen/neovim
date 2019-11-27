@@ -19,7 +19,7 @@ nvim (We use appimage https://appimage.org/ version)
 
 **sudo npm install -g neovim**
 
-**curl -fLo ~/.config/nvim/autoload/plug.vim --create-dirs https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
+**curl -fLo ~/.config/nvim/autoload/plug.vim --create-dirs https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim**
 
 **curl -O /tmp/terraform.zip https://releases.hashicorp.com/terraform/0.12.16/terraform_0.12.16_linux_amd64.zip**
 
@@ -33,7 +33,7 @@ nvim (We use appimage https://appimage.org/ version)
 # Final step
 **nvim**
 
-**:UpdateRemotePlugins  **
+**:UpdateRemotePlugins**
 
 
 
