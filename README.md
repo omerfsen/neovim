@@ -6,7 +6,7 @@ Neovim with Terraform/Terraform Autocomplete Support
 For a working terraform autocomplete you even need to install  ruby and nodejs plugin
 
 nvim (We use appimage https://appimage.org/ version)
-
+```
 **sudo curl -O /usr/local/bin/nvim https://github.com/neovim/neovim/releases/download/v0.4.3/nvim.appimage**
 
 **sudo chmod 755 /usr/local/bin/nvim**
@@ -34,7 +34,7 @@ nvim (We use appimage https://appimage.org/ version)
 **nvim**
 
 **:UpdateRemotePlugins**
-
+```
 
 
 
