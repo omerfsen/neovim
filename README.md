@@ -1,5 +1,7 @@
 # neovim
+
 Neovim with Terraform/Terraform Autocomplete Support
+https://github.com/juliosueiras/vim-terraform-completion
 
 # Requirements 
 
