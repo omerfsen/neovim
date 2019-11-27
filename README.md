@@ -8,6 +8,7 @@ https://github.com/juliosueiras/vim-terraform-completion
 !! For a working terraform autocomplete you even need to install  ruby and nodejs plugin !!
 
 nvim (We use appimage https://appimage.org/ version)
+
 vim-plug Plugin (to autodownload and install NeoVim Plugins, https://github.com/junegunn/vim-plug#installation )
 
 
