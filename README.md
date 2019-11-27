@@ -22,6 +22,8 @@ sudo chmod 755 /usr/local/bin/terraform
 ```
 
 # Final step
+Copy init.vim file as  **~/.config/nvim/init.vim** and run nvim with following command
+
 **nvim**
 
 **:UpdateRemotePlugins**
