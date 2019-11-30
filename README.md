@@ -3,6 +3,8 @@
 Neovim with Terraform/Terraform Autocomplete Support
 https://github.com/juliosueiras/vim-terraform-completion
 
+init.vim file here was mainly inspired from https://gist.github.com/benawad/b768f5a5bbd92c8baabd363b7e79786f 
+
 # Requirements 
 
 !! For a working terraform autocomplete you even need to install  ruby and nodejs plugin !!
